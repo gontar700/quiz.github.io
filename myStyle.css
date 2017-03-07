@@ -1,0 +1,45 @@
+#mainElement{
+    width: auto;
+    height: auto;
+    position: absolute;
+    left: 8px;
+    top: 20px;
+    background-color: lightgrey;
+    letter-spacing: 10px;
+    border:1px solid black;
+    align-content: center;
+    text-align: center;
+    border-radius: 25px;
+    color: blue;
+    font-family: "ariel", Courier, monospace;
+    font-size: x-large;
+}
+#mainElement p{
+    color: blue;
+    font-size: smaller;
+    align-content: left;
+    text-align: left;
+}
+.questionHeadLine{
+    text-align: left;
+    font-size: medium;
+    color: grey;
+}
+.questionbody{
+    text-align: center;
+    font-size: x-large;
+    color: blue;
+}
+.Button{
+    width: 60px;
+    height: 30px;
+    font-size: large;
+}
+.resButton{
+    width: 100px;
+    height: 30px;
+    font-size: large;
+}
+
+
+
